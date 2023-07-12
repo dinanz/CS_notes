@@ -1,4 +1,4 @@
-# CS_notes
+# CS notes
 
 ## Languages
 - C++
